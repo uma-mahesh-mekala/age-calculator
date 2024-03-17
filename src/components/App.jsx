@@ -45,7 +45,7 @@ function App() {
           defaultValue={birthDate}
           onChange={handleChange}
         />
-        <label htmlFor="calculationDate">You want Age at the end of:</label>
+        <label htmlFor="calculationDate">Age at the end of:</label>
         <input
           type="date"
           id="calculationDate"
